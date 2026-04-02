@@ -177,4 +177,4 @@ Consulta **Manual de Instalación** para:
 
 ## Autoría
 
-Este programa fue desarrollado como proyecto de tesis en la **Universidad Distrital Francisco José de Caldas** por **Daniel Nieto Gómez** bajo la dirección de **Paulo Alonso Gaona**.
+Este programa fue desarrollado como proyecto de tesis en la **Universidad Distrital Francisco José de Caldas** por **Daniel Nieto Gómez** bajo la dirección de **Paulo Alonso Gaona García**.
