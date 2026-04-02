@@ -57,7 +57,7 @@ Almacenamiento en SQLite (usuario, duración, puntuación, mano)
 
 ---
 
-## 📁 Estructura del Repositorio
+## Estructura del Repositorio
 
 El repositorio está organizado para servir tanto a usuarios finales como a desarrolladores, cubriendo todo el ciclo de vida del software.
 
@@ -175,3 +175,56 @@ Consulta **Manual de Instalación** para:
 - **Incident**: Evento de postura de alto riesgo detectado por el sistema
 - **LeapCSharp**: Plugin administrado que facilita la comunicación C#/Leap SDK
 - **Bone**: Segmento óseo individual capturado (falange, metacarpo, etc.)
+
+---
+
+## Repositorio
+
+- **GitHub**: [AndresPescador/ErgoSent](https://github.com/AndresPescador/ErgoSent)
+- **Última indexación**: 2 de abril de 2026
+- **Commit**: a9b69e05
+
+---
+
+## Referencias Internas
+
+Para profundizar en aspectos específicos, consulta las secciones disponibles:
+
+- **System Purpose and Domain**: contexto ergonómico y estándares RULA/REBA
+- **Repository Structure and Distribution Artifacts**: desglose detallado de archivos y paquetes
+- **Unity Application Architecture**: detalles técnicos del motor y scripts
+- **Leap Motion SDK Integration**: guía de integración del sensor
+- **Developer Setup**: configuración del entorno de desarrollo
+
+---
+
+## Licencia y Propiedad Intelectual
+
+Registrado ante **COLCIENCIAS** y la **Universidad Distrital**. Para consultas sobre licencia, contacta la institución o el desarrollador original.
+
+---
+
+## Contacto y Soporte
+
+Para preguntas técnicas, reportes de bugs, o solicitudes de soporte:
+
+- Consulta los manuales incluidos en el repositorio
+- Contacta a través del repositorio de GitHub
+- Dirígete al departamento de IT/Soporte de tu institución
+
+---
+
+## Autoría
+
+Este programa fue desarrollado como proyecto de tesis en la **Universidad Distrital Francisco José de Caldas** por **Daniel Nieto Gómez** bajo la dirección de **Paulo Alonso Gaona**.
+
+---
+
+## Disclaimer
+
+ErgoSent proporciona análisis ergonómico asistido por tecnología y no reemplaza la evaluación profesional de especialistas en ergonomía, medicina ocupacional o fisioterapia. Úsalo como herramienta de monitoreo complementaria en programas más amplios de salud ocupacional.
+
+---
+
+**Última actualización**: Abril de 2026  
+**Versión del documento**: 1.0
