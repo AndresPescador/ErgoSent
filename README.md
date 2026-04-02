@@ -148,14 +148,12 @@ El sistema incluye un mecanismo de **Attachment System** para reconocer y clasif
 Consulta **Manual de Usuario** para:
 - Guías paso a paso de operación
 - Interpretación de scores y retroalimentación visual
-- Mejores prácticas ergonómicas
 
 ### Para Desarrolladores
 
 Consulta **Manual del Desarrollador** para:
 - Descripción técnica de scripts C#
 - Estructura de componentes Unity
-- Extensión y personalización del sistema
 - API de integración del Leap Motion
 
 ### Para Administradores IT
@@ -163,7 +161,6 @@ Consulta **Manual del Desarrollador** para:
 Consulta **Manual de Instalación** para:
 - Requisitos de sistema detallados
 - Procedimientos de despliegue
-- Configuración de red (si aplica)
 
 ---
 
@@ -175,3 +172,9 @@ Consulta **Manual de Instalación** para:
 - **Incident**: Evento de postura de alto riesgo detectado por el sistema
 - **LeapCSharp**: Plugin administrado que facilita la comunicación C#/Leap SDK
 - **Bone**: Segmento óseo individual capturado (falange, metacarpo, etc.)
+
+---
+
+## Autoría
+
+Este programa fue desarrollado como proyecto de tesis en la **Universidad Distrital Francisco José de Caldas** por **Daniel Nieto Gómez** bajo la dirección de **Paulo Alonso Gaona**.
