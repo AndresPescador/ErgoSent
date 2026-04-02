@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/AssetStoreOriginals/_SNAPS_PrototypingAssets/ModernOffice_Interior/SampleScenes/MainMenuES_Login.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

@@ -1,0 +1,26 @@
+Software ErgoSent
+
+==================================================
+
+==================================================
+
+Contenido:
+
+1. Ficha de Catalogación (segun COLCIENCIAS y UD).
+
+2. Manual de Usuario
+
+3. Manual Desarrollador
+
+4. Manual de Instalación
+
+5. ErgoSent.zip (contiene la estructura del software junto con todo el codigo fuente)
+
+6. Instalador ErgoSent.exe
+
+5. Registro DNA del software
+
+
+
+
+

@@ -1,0 +1,14 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <ui:VisualElement name="screen" class="screen" style="height: 554px;&#10;width: 441.6667px;&#10;">
+        <Style src="Editor/Resources/UI Builder/TanksMainMenu/TanksMainMenu.uss" />
+        <ui:VisualElement name="menu-column" class="menu-column" style="width: 274px;&#10;">
+            <ui:VisualElement name="menu" class="menu-window" style="justify-content: flex-start;&#10;">
+                <ui:VisualElement name="image" class="title-image" style="height: 184.6667px;&#10;background-image: url(&apos;/Assets/Images/SOLOLOGO.png&apos;);&#10;width: 161.3333px;&#10;padding-right: 0;&#10;padding-left: 0;&#10;margin-left: 35px;&#10;justify-content: center;&#10;" />
+                <ui:Label text="ErgoSent" name="ErgoSent" style="color: rgb(255, 255, 255);&#10;font-size: 30px;&#10;-unity-text-align: lower-center;&#10;-unity-font: resource(&apos;UI Builder/TanksGameScreen/Teko-Regular&apos;);&#10;-unity-font-style: bold;&#10;height: 54px;&#10;width: 230px;&#10;" />
+                <ui:Button text="INICIAR" name="start-button" class="menu-button" />
+                <ui:Button text="ENVIAR DATOS" name="send-button" class="menu-button" />
+                <ui:Button text="SALIR" name="exit-button" class="menu-button" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

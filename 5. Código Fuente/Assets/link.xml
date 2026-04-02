@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="Azure">
+    <type fullname="Azure.Storage.Blobs" preserve="all"/>
+    <type fullname="Azure.Core" preserve="all"/>
+    <type fullname="Azure.Storage.Common" preserve="all"/>
+    <type fullname="Microsoft.Bcl.AsyncInterfaces" preserve="all"/>
+    <type fullname="System.Threading.Tasks.Extensions" preserve="all"/>
+    <type fullname="System.Buffers" preserve="all"/>
+    <type fullname="System.Diagnostics.DiagnosticSource" preserve="all"/>
+    <type fullname="System.Memory" preserve="all"/>
+    <type fullname="System.Numerics.Vectors" preserve="all"/>
+    <type fullname="System.Runtime.CompilerServices.Unsafe" preserve="all"/>
+  </assembly>
+</linker>
