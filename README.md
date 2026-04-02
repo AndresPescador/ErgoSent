@@ -57,7 +57,7 @@ Almacenamiento en SQLite (usuario, duración, puntuación, mano)
 
 ---
 
-## 📁 Estructura del Repositorio
+## Estructura del Repositorio
 
 El repositorio está organizado para servir tanto a usuarios finales como a desarrolladores, cubriendo todo el ciclo de vida del software.
 
